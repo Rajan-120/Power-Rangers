@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url(https://cdn.wallpapersafari.com/26/35/ZSuk36.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h4
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
